@@ -9,7 +9,7 @@ requests
 Установка:
 
 bash 
-git clone 
+git clone https://github.com/ViktoriaAl/disk-api-tests.git
 cd disk-api-tests
 
 python3 -m venv venv
